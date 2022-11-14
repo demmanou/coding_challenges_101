@@ -9,7 +9,7 @@ import unittest
 
 
 class Solution:
-    def word_count(self, text: str) -> dict:
+    def word_count(self, text: str) -> list:
         pass
 
 
