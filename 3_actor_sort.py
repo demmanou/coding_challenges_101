@@ -8,7 +8,7 @@ from typing import List
 
 
 class Solution:
-    def actor_sort(self, actors: List[tuple]) -> list:
+    def actor_sort(self, actors: List[tuple]) -> List[tuple]:
         pass
 
 

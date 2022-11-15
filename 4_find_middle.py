@@ -9,7 +9,7 @@ from typing import List
 
 
 class Solution:
-    def middle_number(self, numbers: List[int]) -> list:
+    def middle_number(self, numbers: List[int]) -> int:
         pass
 
 

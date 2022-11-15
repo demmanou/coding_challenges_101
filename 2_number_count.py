@@ -8,7 +8,7 @@ from typing import List
 
 
 class Solution:
-    def number_count(self, numbers: List[int]) -> list:
+    def number_count(self, numbers: List[int]) -> dict:
         pass
 
 
