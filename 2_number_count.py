@@ -22,7 +22,7 @@ class Test(unittest.TestCase):
         Solution().number_count
     ]
 
-    def test_word_count(self):
+    def test_funcs(self):
         for input_, expected in self.test_cases:
             for func in self.test_functions:
                 assert func(input_) == expected, 'Failed!'
