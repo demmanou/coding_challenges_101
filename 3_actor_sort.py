@@ -1,5 +1,5 @@
 import unittest
-from typing import List, Tuple
+from typing import List
 
 
 # Given a list of actor names in (first, last name) pairs,
@@ -8,7 +8,7 @@ from typing import List, Tuple
 
 
 class Solution:
-    def actor_sort(self, actors: list) -> list:
+    def actor_sort(self, actors: List[tuple]) -> list:
         pass
 
 
