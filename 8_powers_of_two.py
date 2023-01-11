@@ -20,6 +20,8 @@ class Test(unittest.TestCase):
         (-1, False),
         (0, False),
         (0.25, True),
+        (0.5, True),
+        (0.125, True),
         (0.15, False)
     ]
 
