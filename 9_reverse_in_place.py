@@ -4,6 +4,7 @@ from typing import List
 
 # Given an array, reverse the array in place
 # In place means without creating a new array (space complexity O(1))
+# Credit: Marijn Haverbeke
 
 
 class Solution:
